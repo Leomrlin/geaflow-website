@@ -44,8 +44,6 @@ title: "Downloads"
 
 ## <font style="color:rgba(0, 0, 0, 0.88);">GeaFlow</font><font style="color:rgb(35, 47, 62);"> Kubernetes Operator</font>
 
-### <font style="color:rgb(0, 0, 0);">geaflow-kubernetes-operator</font>
-
 [geaflow-kubernetes-operator-0.6-java8-x86](https://hub.docker.com/r/geaflow/geaflow-kubernetes-operator/tags)
 
 > <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-kubernetes-operator:0.6</font>
