@@ -1,29 +1,26 @@
 ### Support
 
-A brief introduction to the project and contact information.
+Apache GeaFlow (Incubating): A Streaming Graph Computing Engine.
+
+Contact us through the following mailing list.
+[dev@geaflow.apache.org](mailto:dev@geaflow.apache.org)
+
+If you are interested in GeaFlow, please give our project a [⭐](https://github.com/apache/geaflow)
 
 ### Team
 
-Team introduction. You can refer to [https://answer.apache.org/community/team](https://answer.apache.org/community/team).
+Team introduction. You can refer to [https://github.com/apache/geaflow/graphs/contributors](https://github.com/apache/geaflow/graphs/contributors).
 
 Anyone who has contributed to the project can be included.
 
-### Security
-
-Rules for handling security issues and publicly disclosed CVEs.
-
-### How to Contribute
-
-Introduction on how to contribute.
-
 ### Feature Request
 
-Link to the GitHub issues page, making it easy for users to submit requests via GitHub issues (you can also create a page explaining how to submit via the mailing list).
+Link to the GitHub issues page. [https://github.com/apache/geaflow/issues](https://github.com/apache/geaflow/issues)
 
 ### Roadmap
 
-Link to the Roadmap file on GitHub, mainly explaining the future plans of the project.
+Link to the Roadmap file on GitHub. [https://github.com/apache/geaflow/issues/532](https://github.com/apache/geaflow/issues/532)
 
 ### Logos
 
-Provide downloadable project logos and other resources
+![](/img/logo.png)

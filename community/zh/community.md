@@ -1,23 +1,25 @@
-### Support
-简单的项目方面的介绍，并提供联系方式
+### 支持
+Apache GeaFlow（孵化中）：一个流式图计算引擎。
 
-### Team
-团队介绍 可以参考 [https://answer.apache.org/community/team](https://answer.apache.org/community/team) 
+通过以下邮件列表联系我们：
+[dev@geaflow.apache.org](mailto:dev@geaflow.apache.org)
 
-对项目有贡献的同学都可以加进来
+如果您对 GeaFlow 感兴趣，请为我们的项目点一个 [⭐](https://github.com/apache/geaflow)
 
-### Security
-针对安全方面的处理规则以及已经处理的公开的 CVE
+### 团队
 
-### How to Contribute
-介绍如何贡献
+团队介绍。您可参考 [https://github.com/apache/geaflow/graphs/contributors](https://github.com/apache/geaflow/graphs/contributors)。
 
-### Feature Request
-链接到 GitHub issues 页面，方便用户以 GitHub issues 的形式提交（也可以做个页面，说明通过加入邮件列表的形式提交）
+任何为项目作出过贡献的人均可列入。
 
-### Roadmap
-链接到 GitHub 页面的 Roadmap 文件，主要说明项目后续的路线图
+### 功能建议
 
-### Logos
-提供项目的 logo 等资源的下载，方便社区协作使用
+跳转到 GitHub 议题页面的链接：[https://github.com/apache/geaflow/issues](https://github.com/apache/geaflow/issues)
 
+### 路线图
+
+跳转到 GitHub 路线图文件的链接：[https://github.com/apache/geaflow/issues/532](https://github.com/apache/geaflow/issues/532)
+
+### 徽标（Logo）
+
+![](/img/logo.png)
