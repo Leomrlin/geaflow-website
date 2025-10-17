@@ -185,48 +185,15 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Quick Start',
-              to: 'docs/quick_start/quick_start',
-            },
-            {
-              label: 'Deployment',
-              to: 'docs/deploy/install_guide',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Contribute',
-              to: 'community/how_to_contribute',
-            },
-            {
-              label: 'Realease',
-              to: 'community/how_to_release',
-            }
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'TuGraph',
-              href: 'https://tugraph.tech',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/apache/geaflow',
-            },
-          ],
-        },
-      ],
-      // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      logo: {
+        width: 200,
+        src: "img/asf_logo.svg",
+        href: "https://incubator.apache.org/",
+        alt: "Apache Incubator logo"
+      },
+      copyright: `<br><p><a href="https://geaflow.apache.org/">Apache Geaflow</a> is an effort undergoing incubation at The <a href="https://www.apache.org/">Apache Software Foundation (ASF)</a>, sponsored by the Apache Incubator. Incubation is required of all newly accepted projects until a further review indicates that the infrastructure, communications, and decision making process have stabilized in a manner consistent with other successful ASF projects. While incubation status is not necessarily a reflection of the completeness or stability of the code, it does indicate that the project has yet to be fully endorsed by the ASF.</p>
+                  <p>Copyright © ${new Date().getFullYear()} The Apache Software Foundation, Licensed under the Apache License, Version 2.0.</p>
+                  <p>Apache, the names of Apache projects, and the feather logo are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries. All other marks mentioned may be trademarks or registered trademarks of their respective owners.</p>`,
     },
   } satisfies Preset.ThemeConfig,
   headTags: [
