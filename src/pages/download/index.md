@@ -5,6 +5,7 @@ title: "Downloads"
 # <font style="color:rgba(0, 0, 0, 0.88);">Apache GeaFlow </font><font style="color:rgb(31, 35, 40);">(Incubating)</font><font style="color:rgba(0, 0, 0, 0.88);"> </font><font style="color:rgb(35, 47, 62);"> Downloads</font>
 
 ## <font style="color:rgb(35, 47, 62);">Apache </font><font style="color:rgba(0, 0, 0, 0.88);">GeaFlow (Incubating)</font>
+[<font style="color:rgb(0, 115, 187);">Apache GeaFlow (incubating) 0.7.0 Source Release</font>](https://github.com/apache/geaflow/releases/tag/v0.7.0)
 
 [<font style="color:rgb(0, 115, 187);">GeaFlow 0.6.7 Source Release</font>](https://github.com/apache/geaflow/releases/tag/v0.6.7)
 
@@ -24,37 +25,32 @@ title: "Downloads"
 
 ### <font style="color:rgb(102, 102, 102);">geaflow</font>
 
-[geaflow-0.6-java8-x86](https://hub.docker.com/r/geaflow/geaflow/tags)
+[geaflow-0.7.0-incubating-java8-x86](https://hub.docker.com/r/geaflow/geaflow-jdk8/tags)
 
-> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow:0.6</font>
+> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-jdk8:0.7</font>
 
-[geaflow-0.6-java8-arm](https://hub.docker.com/r/geaflow/geaflow-arm/tags)
+[geaflow-0.7.0-incubating-java8-arm](https://hub.docker.com/r/geaflow/geaflow-arm-jdk8/tags)
 
-> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-arm:0.6</font>
+> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-arm-jdk8:0.7</font>
 
 ### <font style="color:rgb(0, 0, 0);">geaflow-console</font>
 
-[geaflow-console-0.6-java8-x86](https://hub.docker.com/r/geaflow/geaflow-console/tags)
+[geaflow-console-0.7.0-incubating-java8-x86](https://hub.docker.com/r/geaflow/geaflow-console-jdk8/tags)
 
-> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-console:0.6</font>
+> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-console-jdk8:0.7</font>
 
-[geaflow-console-0.6-java8-arm](https://hub.docker.com/r/geaflow/geaflow-console-arm/tags)
+[geaflow-console-0.7.0-incubating-java8-arm](https://hub.docker.com/r/geaflow/geaflow-console-arm-jdk8/tags)
 
-> docker pull <font style="color:rgb(102, 102, 102);">geaflow</font>/geaflow-console-arm:0.6
-
-## <font style="color:rgba(0, 0, 0, 0.88);">GeaFlow</font><font style="color:rgb(35, 47, 62);"> Kubernetes Operator</font>
-
-[geaflow-kubernetes-operator-0.6-java8-x86](https://hub.docker.com/r/geaflow/geaflow-kubernetes-operator/tags)
-
-> <font style="color:rgb(102, 102, 102);">docker pull geaflow/geaflow-kubernetes-operator:0.6</font>
+> docker pull <font style="color:rgb(102, 102, 102);">geaflow</font>/geaflow-console-arm-jdk8:0.7
 
 ## <font style="color:rgb(35, 47, 62);">Maven Dependencies</font><font style="color:#DF2A3F;"></font>
 
 <font style="color:rgb(35, 47, 62);">You can add the following dependencies to your </font>`pom.xml`<font style="color:rgb(35, 47, 62);"> to include Apache GeaFlow (Incubating) in your project.</font>
 
-<font style="color:rgb(35, 47, 62);">GeaFlow artifacts are available from sonatype.com</font><font style="color:rgb(102, 102, 102);"> </font>[<font style="color:rgb(47, 164, 231);">Official Repository</font>](https://search.maven.org/search?q=GeaFlow)<font style="color:rgb(102, 102, 102);">.</font>
+<font style="color:rgb(35, 47, 62);">GeaFlow artifacts are available from here</font><font style="color:rgb(102, 102, 102);"> </font>[<font style="color:rgb(47, 164, 231);">Official Repository</font>](https://repo.maven.apache.org/maven2/org/apache/geaflow/)<font style="color:rgb(102, 102, 102);">.</font>
 
 ## Release notes for stable releases
+[<font style="color:rgb(0, 115, 187);">Apache GeaFlow (Incubating) 0.7.0 Release Note</font>](https://github.com/apache/geaflow/releases/tag/v0.7.0)
 
 [<font style="color:rgb(0, 115, 187);">GeaFlow 0.6 Release Note</font>](https://github.com/apache/geaflow/releases/tag/v0.6)
 
