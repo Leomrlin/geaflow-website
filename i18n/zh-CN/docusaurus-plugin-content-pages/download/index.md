@@ -5,7 +5,7 @@ title: 下载
 # Apache GeaFlow（孵化中）下载
 
 ## <font style="color:rgb(35, 47, 62);">Apache </font><font style="color:rgba(0, 0, 0, 0.88);">GeaFlow</font>
-[<font style="color:rgb(0, 115, 187);">Apache GeaFlow (incubating) 0.7.0 Source Release</font>](https://github.com/apache/geaflow/releases/tag/v0.7.0)
+[<font style="color:rgb(0, 115, 187);">Apache GeaFlow (incubating) 0.7.0 Source Release</font>](https://archive.apache.org/dist/incubator/geaflow/0.7.0-incubating/ )
 
 [<font style="color:rgb(0, 115, 187);">GeaFlow 0.6.7 Source Release</font>](https://github.com/apache/geaflow/releases/tag/v0.6.7)
 
